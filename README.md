@@ -4,12 +4,12 @@ MantisTools: Suplemento para MS-Excel que auxilia na importação dos completame
 <IMG SRC='imgs/pngwing.com.png' width='10%' height='10%'>
 Importação de Evolução diária
 
-# INSTALAÇÃO
+# Instalação
 
 <IMG SRC='imgs/img1.png'>
 
 
-# UTILIZAÇÃO
+# Utilização
 
 <IMG SRC='imgs/tela1.png'>
   
