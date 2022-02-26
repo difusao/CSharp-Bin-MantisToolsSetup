@@ -9,6 +9,18 @@ Utilizar o arquivo `Setup.exe` para iniciar a instalação.
 
 <IMG SRC='imgs/img1.png'>
 
+Processo de instalação
+
+<IMG SRC='imgs/setup_1.png'>
+
+<IMG SRC='imgs/setup_2.png'>
+
+Processo de desinstalação
+
+<IMG SRC='imgs/uninstall_1.png'>
+
+<IMG SRC='imgs/uninstall_2.png'>
+
 # Exportação: Mantis
 
 <IMG SRC='imgs/export1.png'>
