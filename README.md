@@ -5,9 +5,9 @@ MantisTools: Suplemento para MS-Excel que auxilia na importação dos completame
 
 # Instalação
 
-<IMG SRC='imgs/img1.png'>
-
 Utilizar o arquivo `Setup.exe` para iniciar a instalação.
+
+<IMG SRC='imgs/img1.png'>
 
 # Exportação: Mantis
 
@@ -16,7 +16,9 @@ Utilizar o arquivo `Setup.exe` para iniciar a instalação.
 # Importação: MS Excel
 
 Menu de importação do XML referente ao dia da Sprint. Será importado apenas o `Completamento`, percentual da evolução das tarefas atribuídas.
+
 <IMG SRC='imgs/tela1.png'>
   
 Finalização do processo de importação e completamento
+
 <IMG SRC='imgs/tela2.png'>
