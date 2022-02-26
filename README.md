@@ -21,11 +21,11 @@ Processo de desinstalação
 
 <IMG SRC='imgs/uninstall_2.png'>
 
-# Exportação: Mantis
+# Mantis: Exportação (XML)
 
 <IMG SRC='imgs/export1.png'>
 
-# Importação: MS Excel
+# MS Excel: Importação (XML)
 
 Menu de importação do XML referente ao dia da Sprint. Será importado apenas o `Completamento`, percentual da evolução das tarefas atribuídas.
 
